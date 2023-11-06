@@ -1,3 +1,5 @@
 main:
-  - title: "组会"
+  - title: "Group meeting"
     url: /
+  - title: "Notes"
+    url: /notes/

@@ -6,3 +6,7 @@ locale: zh-CN
 logo: /assets/images/logo.jpg
 plugins:
   - jekyll-include-cache
+collections:
+  notes:
+    output: true
+    permalink: /:collection/:name/
