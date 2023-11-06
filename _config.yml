@@ -1,7 +1,7 @@
 title: XiaoZiLee's Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "xiaozilee.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 logo: /assets/images/logo.jpg
 plugins:
   - jekyll-include-cache
